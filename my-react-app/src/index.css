@@ -1,5 +1,5 @@
 .container {
-  background-color: black;
+  background-color: whitesmoke
   border: 3px;
   height: 500px;
   width: 700px;
@@ -13,4 +13,9 @@
   text-align: center;
   border-radius: 20px;
   display: inline-block;
+}
+.btn{
+  padding:4px;
+  background-color:green;
+  border-radius:2px;
 }

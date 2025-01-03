@@ -1,5 +1,6 @@
 import Cards from "./Card"
 import Fruits from './Fruits'
+import Button from "./Button"
 let users= [
   {
   name:'Zakyboss',
@@ -36,6 +37,8 @@ function App() {
   })}
     
     </>
+
+    <> <Button/></>
   </div>
  )
 }
